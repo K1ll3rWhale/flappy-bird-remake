@@ -30,3 +30,7 @@ Going from zero Unity experience to a finished, playable game was the real chall
 ## Acknowledgments
 
 Inspired by the original *Flappy Bird* by Dong Nguyen (.GEARS).
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
